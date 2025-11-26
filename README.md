@@ -13,5 +13,3 @@ This repository organizes and links to all my builds, where I transform concepts
 ## 📁 Website Developmenet project
 
 - [Amazon clone website](https://amazon-clone-website-nu.vercel.app/) | [Amazon Clone Website repository](https://github.com/bankphan/amazon-clone-website) - November 2025
-- [Resume website]() | [Resume Website repository]() - November 2025
-- [Project Managament Web Apps]() | [Project Managament Web Apps repository]() - November 2025
